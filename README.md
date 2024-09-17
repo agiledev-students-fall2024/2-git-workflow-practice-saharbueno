@@ -9,3 +9,5 @@ Particularly, I enjoyed reading about Allison Chow's experience and what she wor
 ## Stella Zhang's Thoughts
 * As someone who wants to go into software engineering, seeing the details of these projects by individual software engineering interns was very helpful and inspiring. I enjoyed reading about Allison Chow's work in the LoL Growth team, making adjustments to a number of different parts of the game to improve the player experience.
 
+## Diya Agrawal's Thoughts 
+* It’s impressive how interns like Allison Chow and Chunlok Lo have made substantial contributions at Riot Games. Allison’s innovative work on the Team Fight Tactics frontend, including the game mode selection screen, and Chunlok’s development on the Riot Client SDK, which handles essential functions like logins and chats, showcase that interns, while they may not be expected to, can still play an extremely valuable role in a company's service or product.
